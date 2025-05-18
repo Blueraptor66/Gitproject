@@ -1,2 +1,2 @@
 # Gitproject
-This is my first Git and Github repo.
+This is my first Git Repo.
